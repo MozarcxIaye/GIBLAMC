@@ -1,0 +1,22 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Red+Hat+Display:wght@300;400;500;700;900&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Red Hat Display';
+    font-weight: 400;
+    font-size: 1.2ch;
+}
+.staff_heading{
+    font-weight: 800;
+}
+.modal-body form div input{
+    font-size: 1.3ch;
+}
